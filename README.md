@@ -4,13 +4,27 @@
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status%20-Finished!-brightgreen?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) </br>
-Projeto sobre a detecção de doenças coronárias utilizando Python <br>
-**Vai ficar pra 2022!** :partying_face: :tada: <br>
+Projeto sobre a detecção de doenças coronárias utilizando Inteligência Artificial com Python <br>
 
-<h2> Utilizados nesse projeto! </h2>
+<h2> Introdução </h2>
+Este conjunto de dados é composto por 13 colunas sobre 303 pacientes diferentes e com um target, que representa a existência ou não de doenças coronárias (doenças do coração).
 
-<a href="https://colab.research.google.com/drive/1Mlj9hkHyPX7AiYvmwCotn0UeSJNAImuL"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open In Colab"/> </a> 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank">
+Este tipo de modelo, modelo de classificação, tem uma grande importância, já que pode ajudar a detectar uma possível doença cardíaca com antecedência, aumentando a chance de sobrevivência do paciente e da qualidade de vida.
+
+<h2> Análise exploratória </h2>
+Primeiramente, foi verificado a existência de dados nulos, duplicados, outliers e os tipo de variáveis. Foi realizada a análise exploratória dos dados, obtendo insights sobre características que aumentam a propensão ao desenvolvimento de doenças coronárias. 
+<h3> Data Construction</h3>
+Algumas variávies contínuas foram dividas variáveis categóricas na tentativa de melhora de performance dos modelos de classificação.  
+
+<h2> Modelo e Hiperparametrização </h2>
+Foram testados sete modelos de inteligência Artificial para este problema de classificação. Os modelos foram avaliados em quatro métricas de classificação, sendo elas: acurácia, Precisão, Revocação  e _F1 Score_.  
+
+Após o processo de tuning, o modelo de XGBoost teve um ganho pequeno, chegando a 88.51%. Já o modelo de Random Forest teve um ganho mais significativo, alcançando os mesmos 88.51% do modelo de regressão.
+
+<h3> Utilizados nesse projeto! </h3>
+
+<a href="https://colab.research.google.com/drive/1Mlj9hkHyPX7AiYvmwCotn0UeSJNAImuL"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open In Colab"/></a> 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank"> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank">
