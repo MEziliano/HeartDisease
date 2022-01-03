@@ -1,4 +1,4 @@
-# Doenças Coronárias
+# Doenças Coronárias :mending_heart: 	:drop_of_blood: :stethoscope:
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/regressao-internacao_SUS?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/regressao-internacao_SUS?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
