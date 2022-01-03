@@ -19,7 +19,7 @@ Algumas variávies contínuas foram dividas variáveis categóricas na tentativa
 <h2> Modelos e Hiperparametrização </h2>
 Foram testados sete modelos de inteligência Artificial para este problema de classificação. Os modelos foram avaliados em quatro métricas de classificação, sendo elas: acurácia, Precisão, Revocação e F1 Score.  
 
-Após o processo de tuning, o modelo de XGBoost teve um ganho pequeno, chegando a 83.14%. Já o modelo de Random Forest teve um ganho mais significativo, alcançando 89.13%
+Após o processo de tuning, os modelos responderam melhor quanto a acurácia analisada, chegando a atingir 85.33% e um F1 de 86.41% no modelo de Extra Tree. 
 
 <h3> Utilizados nesse projeto! </h3>
 
