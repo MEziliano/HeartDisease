@@ -23,7 +23,6 @@ Após o processo de tuning, os modelos responderam melhor quanto a acurácia ana
 
 <h3> Utilizados nesse projeto! </h3>
 
-
 <a href="https://www.kaggle.com/chingchunyeh/heart-disease-report/data"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://colab.research.google.com/drive/1Mlj9hkHyPX7AiYvmwCotn0UeSJNAImuL"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open In Colab"/></a> 
 <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
