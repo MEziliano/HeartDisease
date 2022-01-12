@@ -1,4 +1,4 @@
-# Doenças Coronárias :mending_heart: 	:drop_of_blood: :stethoscope:
+# Doenças Coronárias :mending_heart: :drop_of_blood: :stethoscope:
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/regressao-internacao_SUS?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/regressao-internacao_SUS?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
@@ -20,6 +20,8 @@ Algumas variávies contínuas foram dividas variáveis categóricas na tentativa
 Foram testados sete modelos de inteligência Artificial para este problema de classificação. Os modelos foram avaliados em quatro métricas de classificação, sendo elas: acurácia, Precisão, Revocação e F1 Score.  
 
 Após o processo de tuning, os modelos responderam melhor quanto a acurácia analisada, chegando a atingir 85.33% e um F1 de 86.41% no modelo de Extra Tree. 
+
+Veja também alguns comentários a mais no medium
 
 <h3> Utilizados nesse projeto! </h3>
 
