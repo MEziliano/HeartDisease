@@ -1,9 +1,9 @@
 # Doenças Coronárias :mending_heart: :drop_of_blood: :stethoscope:
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/regressao-internacao_SUS?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/regressao-internacao_SUS?style=for-the-badge)
-[![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status%20-Finished!-brightgreen?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) </br>
+![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) 
+</br>
 Projeto sobre a detecção de doenças coronárias utilizando Inteligência Artificial com Python <br>
 
 <h2> Introdução </h2>
@@ -32,4 +32,5 @@ Veja também alguns comentários a mais no medium
 <a href="https://medium.com/@murilosez06" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://www.notion.so/muriloeziliano/Machine-Learning-db0dedbe64424966baf8be5baa730c06" target="_blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <!--<img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">-->
+<img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
+[![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)-->
