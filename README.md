@@ -28,9 +28,8 @@ Veja também alguns comentários a mais no medium
 <a href="https://www.kaggle.com/chingchunyeh/heart-disease-report/data"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://colab.research.google.com/drive/1Mlj9hkHyPX7AiYvmwCotn0UeSJNAImuL"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open In Colab"/></a> 
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank">
-<!--<img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">-->
 <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank"> 
 <a href="https://medium.com/@murilosez06" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://www.notion.so/muriloeziliano/Machine-Learning-db0dedbe64424966baf8be5baa730c06" target="_blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-
+<!--<img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">-->
