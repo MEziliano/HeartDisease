@@ -3,6 +3,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/HeartDisease?style=for-the-badge)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status%20-Finished!-brightgreen?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/HeartDisease?style=for-the-badge) 
+![Lincese](https://img.shields.io/github/license/MEziliano/HeartDisease?style=for-the-badge)
 </br>
 Project about heart disease detection with Python and Machine Learning <br>
 
