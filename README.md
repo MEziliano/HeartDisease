@@ -26,8 +26,6 @@ Foram testados sete modelos de inteligência Artificial para este problema de cl
 Após o processo de tuning, os modelos responderam melhor quanto a acurácia analisada, chegando a atingir 85.33% e um F1 de 86.41% no modelo de Extra Tree. 
 
 
-
-
 <h2> Used in the project! </h2>
 <div>
 <a href="https://www.kaggle.com/chingchunyeh/heart-disease-report/data"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
