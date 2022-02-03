@@ -11,19 +11,19 @@
 Project about heart disease detection with Python and Machine Learning <br>
 
 <h2> Introduction </h2>
-Este conjunto de dados é composto por 13 colunas sobre 303 pacientes diferentes e com um target, que representa a existência ou não de doenças coronárias (doenças do coração). Conjunto de dados disponibilizados no kaggle 
 
-Este tipo de modelo, modelo de classificação, tem uma grande importância, já que pode ajudar a detectar uma possível doença cardíaca com antecedência, aumentando a chance de sobrevivência do paciente e da qualidade de vida.
+
 
 <h2> Exploratory Data Analysis — EDA </h2>
-Primeiramente, foi verificado a existência de dados nulos, duplicados, outliers e os tipo de variáveis. Foi realizada a análise exploratória dos dados, obtendo insights sobre características que aumentam a propensão ao desenvolvimento de doenças coronárias. 
+
+
 <h3> Data Construction</h3>
-Algumas variávies contínuas foram dividas variáveis categóricas na tentativa de melhora de performance dos modelos de classificação.  
+  
 
 <h2> Machine Learning </h2>
-Foram testados sete modelos de inteligência Artificial para este problema de classificação. Os modelos foram avaliados em quatro métricas de classificação, sendo elas: acurácia, Precisão, Revocação e F1 Score.  
 
-Após o processo de tuning, os modelos responderam melhor quanto a acurácia analisada, chegando a atingir 85.33% e um F1 de 86.41% no modelo de Extra Tree. 
+
+
 
 
 <h2> Used in the project! </h2>
