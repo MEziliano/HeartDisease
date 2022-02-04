@@ -12,9 +12,33 @@ Project about heart disease detection with Python and Machine Learning <br>
 
 <h2> Introduction </h2>
 
+WHO announced that cardiovascular diseases is the top one killer over the world. There are seventeen million people died from it every year, especially heart disease. Prevention is better than cure. If we can evaluate the risk of every patient who probably has heart disease, that is, not only patients but also everyone can do something earlier to keep illness away.
 
+This dataset is a real data including important features of patients. 
 
+ <details><summary>Data Dictionary</summary>
+<p>
+
+| Column  | Description |
+| ------------- | ------------- |
+| Age      | age in years|
+| sex      | (1 = male; 0 = female)|
+| cp       | Chest pain type   (0-3)| 
+| trestbps | resting blood pressure (in **mm Hg** on admission to the hospital)|
+| chol     | serum cholestoral in **mg/dl**|
+| fbs      | (fasting blood sugar & gt; 120 mg/dl) (1 = true; 0 = false)|
+| restcg   | resting electrocardiographic results|
+| thalach  | maximum heart rate achieved| 
+| exang    | exercise induced angina (1 = yes; 0 = no)|
+| oldpeak  | ST depression induced by exercise relative to rest|
+| slope    | the slope of the peak exercise ST segment|
+| ca       | number of major vessels (0-3) colored by flourosopy|
+| thal     | 3 = normal; 6 = fixed defect; 7 = reversable defect.|
+</p>
+</details>
+  
 <h2> Exploratory Data Analysis — EDA </h2>
+
 
 
 <h3> Data Construction</h3>
