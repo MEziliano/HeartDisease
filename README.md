@@ -39,10 +39,11 @@ This dataset is a real data including important features of patients.
   
 <h2> Exploratory Data Analysis — EDA </h2>
 
-
+At the EDA part  
 
 <h3> Data Construction</h3>
   
+
 
 <h2> Machine Learning </h2>
 
