@@ -43,13 +43,12 @@ At the EDA part it was necessary check how the data were spread and use a few co
 
 <h3> Data Construction</h3>
 
-After the EDA, was necessary divide some continnous columns in discrete columns and how it behavior with the target. 
+After the EDA, was necessary divide some continnous columns in discrete columns and how them behavior with the target. Columns like: chol, trestbps and others has pass for this step of Data Construction. 
 
 
 <h2> Machine Learning </h2>
 
-Last but not least, the chosen of the best model of the Machine Learning was based in metrics like Accuracy, Precision, Recall and F1.  
-
+Last but not least, the chosen of the best model of the Machine Learning was based in metrics like Accuracy, Precision, Recall and F1. After check the best model of a set the models, including linear models and non linear models, the chosen one was the Random Forest Classifier. Which pass for a boosting and a hyperparameter tuning to get a better performance.   
 
 
 <h2> Used in the project! </h2>
