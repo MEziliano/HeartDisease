@@ -39,15 +39,16 @@ This dataset is a real data including important features of patients.
   
 <h2> Exploratory Data Analysis — EDA </h2>
 
-At the EDA part  
+At the EDA part it was necessary check how the data were spread and use a few concepts of inferencial statistics to make some decisions. 
 
 <h3> Data Construction</h3>
-  
+
+After the EDA, was necessary divide some continnous columns in discrete columns and how it behavior with the target. 
 
 
 <h2> Machine Learning </h2>
 
-
+Last but not least, the chosen of the best model of the Machine Learning was based in metrics like Accuracy, Precision, Recall and F1.  
 
 
 
