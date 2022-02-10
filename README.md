@@ -39,7 +39,7 @@ This dataset is a real data including important features of patients.
   
 <h2> Exploratory Data Analysis — EDA </h2>
 
-At the EDA part it was necessary check how the data were spread and use a few concepts of inferencial statistics to make some decisions. 
+At the EDA part it was necessary check how the data were spread and use a few concepts of inferencial statistics to make some decisions for the next step. 
 
 <h3> Data Construction</h3>
 
@@ -59,7 +59,7 @@ Last but not least, the chosen of the best model of the Machine Learning was bas
 <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank"> 
 
 <h3> Check also this comments</h3>
-<a href="https://medium.com/@murilosez06" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@murilosez06/a-week-inside-a-data-science-project-eabcfd2a2c56" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://www.notion.so/muriloeziliano/Classification-d621168874bf435780c6b63196e4c8cd" target="_blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <!--<img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
