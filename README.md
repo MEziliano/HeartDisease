@@ -48,7 +48,7 @@ After the EDA, was necessary divide some continnous columns in discrete columns 
 
 <h2> Machine Learning </h2>
 
-Last but not least, the chosen of the best model of the Machine Learning was based in metrics like Accuracy, Precision, Recall and F1. After check the best model of a set the models, including linear models and non linear models, the chosen one was the Random Forest Classifier. Which pass for a boosting and a hyperparameter tuning to get a better performance.   
+Last but not least, the chosen of the best model of the Machine Learning was based in metrics like Accuracy, Precision, Recall and F1.But the most important metric to watch up is the recall rate. Beacause, it the fraction of relevant instances that were retrieved considerer the After check the best model of a set the models, including linear models and non linear models, the chosen one was the Neural Networks. Which pass for a boosting and a hyperparameter tuning to get a better performance.   
 
 
 <h2> Used in the project! </h2>
