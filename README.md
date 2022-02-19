@@ -1,6 +1,5 @@
 <h1 align="center">Heart Disease :mending_heart::drop_of_blood::stethoscope:</h1>
 
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/HeartDisease?style=for-the-badge) 
 ![GitHub code size](https://img.shields.io/github/languages/code-size/MEziliano/HeartDisease?style=for-the-badge)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status%20-Finished!-brightgreen?style=for-the-badge) 
