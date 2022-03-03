@@ -33,6 +33,7 @@ This dataset is a real data including important features of patients.
 | slope    | the slope of the peak exercise ST segment|
 | ca       | number of major vessels (0-3) colored by flourosopy|
 | thal     | 3 = normal; 6 = fixed defect; 7 = reversable defect.|
+| target   | (1 = Non Health; 0 = Health)  |
 </p>
 </details>
   
